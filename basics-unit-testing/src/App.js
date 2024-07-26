@@ -6,7 +6,7 @@ import Counter from './components/Counter';
 function App() {
   return (
     <div className="App">
-      <p>  Learn React</p>
+      <p>  Learn React Testing</p>
 
       <Home />
       <Counter />
